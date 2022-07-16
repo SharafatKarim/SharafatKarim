@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? .....
 
-<table align="center">
+<table align="center" border="0">
       <tbody>
         <tr>
           <td style="text-align: center;"><a href="https://t.me/SharafatKarim" title="Telegram"
