@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharafat</h1>
 <h3 align="center">A student from Bangaladesh</h3>
 
-<img width="40%" align="right" alt="Github Header" src="git-header.svg" />
+<p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
 <p>
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning something useless
