@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sharafat</h1>
 <h3 align="center">A student from Bangaladesh</h3>
 
-
+<img width="40%" align="right" alt="Github Header" src="git-header.svg" />
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning something useless
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? .....
-<img width="40%" align="right" alt="Github Header" src="git-header.svg" />
 
-<table align="left">
+<table align="center">
       <tbody>
         <tr>
           <td style="text-align: center;"><a href="https://t.me/SharafatKarim" title="Telegram"
