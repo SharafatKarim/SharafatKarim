@@ -70,10 +70,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117" alt="sharafatkarim" /></p>
 
-<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sharafatkarim&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=sharafatkarim&theme=darkhub" alt="sharafatkarim" /></p>
 
 ### Just a snake roaming around
 --- 
