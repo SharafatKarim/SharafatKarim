@@ -3,10 +3,10 @@
 
 
 - 👀 I’m interested in Linux
-<img width="40%" align="right" alt="Github Header" src="git-header.svg" />
 - 🌱 I’m currently learning something useless
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? .....
+<img width="40%" align="right" alt="Github Header" src="git-header.svg" />
 
 <table align="center">
       <tbody>
