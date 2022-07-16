@@ -2,11 +2,12 @@
 <h3 align="center">A student from Bangaladesh</h3>
 
 <img width="40%" align="right" alt="Github Header" src="git-header.svg" />
+<p>
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning something useless
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? .....
-
+</p>
 <table align="center">
       <tbody>
         <tr>
