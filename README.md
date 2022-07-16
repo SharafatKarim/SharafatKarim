@@ -8,7 +8,7 @@
 - 📫 How to reach me? .....
 <img width="40%" align="right" alt="Github Header" src="git-header.svg" />
 
-<table align="center">
+<table align="left">
       <tbody>
         <tr>
           <td style="text-align: center;"><a href="https://t.me/SharafatKarim" title="Telegram"
