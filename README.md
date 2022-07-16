@@ -7,8 +7,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? .....
 
-<table style="width: 286px; height: 45px; text-align: left; margin-left: auto; margin-right: auto;"
-      border="0">
+<table>
       <tbody>
         <tr>
           <td style="text-align: center;"><a href="https://t.me/SharafatKarim" title="Telegram"
@@ -38,9 +37,6 @@
               title="Twitter" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"
                 alt="twitter" title="Twitter"></a><br>
           </td>
-          <td style="text-align: center;">
-            <a href="/https://rsshub.app/telegram/channel/linuxheadlines" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS feed" height="30" width="40" /></a>
-</p>      </td>
         </tr>
       </tbody>
     </table>
