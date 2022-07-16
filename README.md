@@ -3,11 +3,12 @@
 
 
 - 👀 I’m interested in Linux
+<img width="40%" align="right" alt="Github Header" src="git-header.svg" />
 - 🌱 I’m currently learning something useless
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? .....
 
-<table align="center" border="0">
+<table align="center">
       <tbody>
         <tr>
           <td style="text-align: center;"><a href="https://t.me/SharafatKarim" title="Telegram"
