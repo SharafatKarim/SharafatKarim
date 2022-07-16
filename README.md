@@ -7,8 +7,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? .....
 
-<center>
-<table>
+<table align="center">
       <tbody>
         <tr>
           <td style="text-align: center;"><a href="https://t.me/SharafatKarim" title="Telegram"
@@ -41,7 +40,6 @@
         </tr>
       </tbody>
     </table>
-    </center>
 
 <!--   <a href="https://rafidalhaque.xyz"><img src="https://img.shields.io/badge/Website-rafidalhaque.xyz-black?style=for-the-badge&logo=Workplace" height=25></a>
   <a href="https://twitter.com/rafidalhaque"><img src=
