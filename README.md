@@ -55,9 +55,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117" alt="sharafatkarim" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117)](https://git.io/streak-stats)
-
-
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=sharafatkarim&theme=darkhub" alt="sharafatkarim" /></p>
 
 --- 
