@@ -50,7 +50,7 @@
 <a href="https://t.me/LinuxUniverse" title="Linux Community (telegram)" target="_blank">
 <img width="30%" alt="Share The Love of Linux" src="share-the-love.svg"/>
 </a>
-<a href="https://t.me/LinuxUniverse" title="Linux Community (telegram)" target="_blank">
+<a href="https://t.me/SharafatsNotes" title="NotesCollection (telegram)" target="_blank">
 <img width="20%" alt="Share The Love of Linux" src="note-s.svg"/>
 </a>
 
