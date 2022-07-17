@@ -53,7 +53,7 @@
 
 <img width="30%" align="right" alt="Share The Love of Linux" src="share-the-love.svg"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117" alt="sharafatkarim" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117" alt="sharafatkarim" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117)](https://git.io/streak-stats)
 
