@@ -10,7 +10,7 @@
 - 📫 How to reach me? .....
 
 </b>
-<table align="left">
+<table align="center">
       <tbody>
         <tr>
           <td style="text-align: center;"><a href="https://t.me/SharafatKarim" title="Telegram"
@@ -45,15 +45,11 @@
     </table>
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=STATS&username=SharafatKarim" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&custom_title=LANGUAGES&username=SharafatKarim" height="150" alt="languages graph"  />
-</div>
+ <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=STATS&username=SharafatKarim" height="150" alt="stats graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&custom_title=LANGUAGES&username=SharafatKarim" height="150" alt="languages graph"  />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117" alt="sharafatkarim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117" alt="sharafatkarim" /></p>
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=sharafatkarim&theme=darkhub" alt="sharafatkarim" /></p>
 
-### Just a snake roaming around
---- 
 <img src="https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/output/snake.svg">
