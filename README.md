@@ -47,7 +47,9 @@
 ---
 
 
+<a href="https://t.me/LinuxUniverse" title="Linux Community (telegram)" target="_blank">
 <img width="30%" align="center" alt="Share The Love of Linux" src="share-the-love.svg"/>
+</a>
 
 <details>
 <summary>
