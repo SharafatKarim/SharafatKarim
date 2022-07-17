@@ -7,10 +7,11 @@
    viewBox="0 0 152.3884 86.33163"
    version="1.1"
    id="svg1279"
-   sodipodi:docname="/tmp/ink_ext_XXXXXX.svg9E1SP1"
+   sodipodi:docname="logo396x412.svg"
    inkscape:export-filename="./bitmap.svg"
    inkscape:export-xdpi="48.18"
    inkscape:export-ydpi="48.18"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,7 +30,7 @@
      showgrid="false"
      inkscape:zoom="0.83780448"
      inkscape:cx="259.01031"
-     inkscape:cy="182.02338"
+     inkscape:cy="183.21697"
      inkscape:window-width="1600"
      inkscape:window-height="836"
      inkscape:window-x="0"
@@ -163,10 +164,10 @@
     <filter
        id="filter3956-2"
        inkscape:collect="always"
-       x="-0.080328107"
-       y="-0.089005217"
+       x="-0.080328104"
+       y="-0.089005215"
        width="1.1606562"
-       height="1.1780103">
+       height="1.1780104">
       <feGaussianBlur
          id="feGaussianBlur3958-61"
          stdDeviation="2.6998388"
@@ -199,7 +200,7 @@
        inkscape:label="Drop Shadow"
        id="filter25250-2"
        x="-0.012010853"
-       y="-0.081327297"
+       y="-0.081327298"
        width="1.0323622"
        height="1.2191294">
       <feFlood
@@ -234,7 +235,7 @@
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter25220-2"
-       x="-0.044247285"
+       x="-0.044247284"
        y="-0.045555476"
        width="1.1079762"
        height="1.1114351">
@@ -292,9 +293,9 @@
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter25274-3"
-       x="-0.035406232"
-       y="-0.090011887"
-       width="1.0957119"
+       x="-0.035406231"
+       y="-0.090011888"
+       width="1.095712"
        height="1.243325">
       <feFlood
          flood-opacity="0.498039"
@@ -350,9 +351,9 @@
        inkscape:label="Drop Shadow"
        id="filter25262-9"
        x="-0.023717513"
-       y="-0.095120393"
-       width="1.0639735"
-       height="1.2565697">
+       y="-0.095120391"
+       width="1.0639736"
+       height="1.2565698">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
