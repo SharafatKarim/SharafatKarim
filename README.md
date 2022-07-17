@@ -47,7 +47,7 @@
 ---
 
 
-<img width="50%" align="center" alt="Share The Love of Linux" src="share-the-love.svg"/>
+<img width="30%" align="center" alt="Share The Love of Linux" src="share-the-love.svg"/>
 
 <details>
 <summary>
