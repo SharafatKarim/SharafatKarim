@@ -61,7 +61,7 @@
       <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117" alt="sharafatkarim" /></p>
     </td>
     <td>
-      <img align="right" alt="Share The Love of Linux" src="share-the-love.svg"/>
+      <img align="right" width="30%" alt="Share The Love of Linux" src="share-the-love.svg"/>
     </td>
   </tbody>
 </table>
