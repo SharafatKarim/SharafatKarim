@@ -8,6 +8,9 @@
    version="1.1"
    id="svg1279"
    sodipodi:docname="/tmp/ink_ext_XXXXXX.svg9E1SP1"
+   inkscape:export-filename="./bitmap.svg"
+   inkscape:export-xdpi="48.18"
+   inkscape:export-ydpi="48.18"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -384,10 +387,10 @@
        inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
        style="color-interpolation-filters:sRGB"
        id="filter25106-2"
-       x="-0.091831438"
-       y="-0.093569748"
-       width="1.221926"
-       height="1.2261269">
+       x="-0.11118122"
+       y="-0.1132858"
+       width="1.2606255"
+       height="1.265559">
       <feConvolveMatrix
          order="3 3"
          kernelMatrix="0 -0.15 0 -0.15 1.6 -0.15 0 -0.15 0"
@@ -535,7 +538,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.353px;font-family:Berliner;-inkscape-font-specification:'Berliner, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient14849);fill-opacity:1;stroke:#ffffff;stroke-width:2.80884">the love</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.369px;line-height:1.25;font-family:'42 Emancipated';-inkscape-font-specification:'42 Emancipated, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.03422;filter:url(#filter25106-2)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.369px;line-height:1.25;font-family:'42 Emancipated';-inkscape-font-specification:'42 Emancipated, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:3.03422;filter:url(#filter25106-2)"
        x="250.54807"
        y="753.97217"
        id="text12173"
@@ -547,6 +550,6 @@
          id="tspan12171"
          x="250.54807"
          y="753.97217"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.369px;font-family:'42 Emancipated';-inkscape-font-specification:'42 Emancipated, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:3.03422">of</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.369px;font-family:'42 Emancipated';-inkscape-font-specification:'42 Emancipated, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#f9f9f9;stroke-width:3.03422">of</tspan></text>
   </g>
 </svg>
