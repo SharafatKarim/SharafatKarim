@@ -381,56 +381,6 @@
          result="composite2"
          id="feComposite25260-7" />
     </filter>
-    <filter
-       inkscape:label="Cutout Glow"
-       inkscape:menu="Shadows and Glows"
-       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
-       style="color-interpolation-filters:sRGB"
-       id="filter25106-2"
-       x="-0.11118122"
-       y="-0.1132858"
-       width="1.2606255"
-       height="1.265559">
-      <feConvolveMatrix
-         order="3 3"
-         kernelMatrix="0 -0.15 0 -0.15 1.6 -0.15 0 -0.15 0"
-         divisor="1"
-         in="SourceGraphic"
-         targetX="1"
-         targetY="1"
-         id="feConvolveMatrix25104-7"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix25126-0" />
-      <feOffset
-         id="feOffset25128-9"
-         dy="3"
-         dx="3"
-         in="fbSourceGraphic" />
-      <feGaussianBlur
-         id="feGaussianBlur25130-3"
-         stdDeviation="3"
-         result="blur" />
-      <feFlood
-         id="feFlood25132-6"
-         flood-color="rgb(0,0,0)"
-         flood-opacity="1"
-         result="flood" />
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite25134-0"
-         in="flood"
-         operator="in"
-         result="composite" />
-      <feBlend
-         in2="composite"
-         id="feBlend25136-6"
-         in="blur"
-         mode="normal" />
-    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -538,7 +488,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.353px;font-family:Berliner;-inkscape-font-specification:'Berliner, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient14849);fill-opacity:1;stroke:#ffffff;stroke-width:2.80884">the love</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.369px;line-height:1.25;font-family:'42 Emancipated';-inkscape-font-specification:'42 Emancipated, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:3.03422;filter:url(#filter25106-2)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.369px;line-height:1.25;font-family:'42 Emancipated';-inkscape-font-specification:'42 Emancipated, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.03422"
        x="250.54807"
        y="753.97217"
        id="text12173"
@@ -550,6 +500,6 @@
          id="tspan12171"
          x="250.54807"
          y="753.97217"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.369px;font-family:'42 Emancipated';-inkscape-font-specification:'42 Emancipated, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#f9f9f9;stroke-width:3.03422">of</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.369px;font-family:'42 Emancipated';-inkscape-font-specification:'42 Emancipated, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#000000;stroke-width:3.03422">of</tspan></text>
   </g>
 </svg>
