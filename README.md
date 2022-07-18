@@ -5,7 +5,7 @@
 <b>
 
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning something useless
+- 🌱 I’m currently learning something useless maybe
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? .....
 
