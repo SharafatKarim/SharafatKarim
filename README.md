@@ -53,6 +53,9 @@
 <a href="https://t.me/SharafatsNotes" title="NotesCollection (telegram)" target="_blank">
 <img width="20%" alt="Share The Love of Linux" src="note-s.svg"/>
 </a>
+<a href="https://t.me/SharafatsNotes" title="NotesCollection (telegram)" target="_blank">
+<img width="30%" alt="Share The Love of Linux" src="headlines.svg"/>
+</a>
 
 <details>
 <summary>
