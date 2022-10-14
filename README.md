@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharafat</h1>
-<h3 align="center">A student from Bangaladesh</h3>
+<h3 align="center">A student from Bangladesh</h3>
 
 <p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
 <b>
