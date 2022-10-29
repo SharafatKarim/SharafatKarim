@@ -72,4 +72,4 @@
 </details>
 
 --- 
-<img src="https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/output/snake.svg">
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
