@@ -46,7 +46,7 @@
 
 ---
 
-
+<center>
 <a href="https://t.me/LinuxUniverse" title="Linux Community (telegram)" target="_blank">
 <img width="30%" alt="Share The Love of Linux" src="share-the-love.svg"/>
 </a>
@@ -56,6 +56,7 @@
 <a href="https://t.me/LinuxHeadlines" title="LinuxHeadlines (telegram)" target="_blank">
 <img width="30%" alt="Share The Love of Linux" src="headlines.svg"/>
 </a>
+</center>
 
 <p><img width="28%" align="right" alt="Github Header" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg"/></p>
 
