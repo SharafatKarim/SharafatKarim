@@ -4,10 +4,10 @@
 <p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
 <b>
 
-- 👀 I’m interested in Linux
-- 🌱 I’m currently learning something useless maybe
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? .....
+- 🐧 A Linux enthusiast
+- ❤️‍🔥 I like open-source projects
+- 🌱 I’m currently learning something useless, maybe
+- 🫠 Feel free to text me
 
 </b>
 <table align="center">
@@ -56,6 +56,18 @@
 <a href="https://t.me/LinuxHeadlines" title="LinuxHeadlines (telegram)" target="_blank">
 <img width="30%" alt="Share The Love of Linux" src="headlines.svg"/>
 </a>
+
+<p><img width="20%" align="right" alt="Github Header" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg"/></p>
+
+- 🏖️ Favourite things
+  - person = Muhammad ibn Abdullah (ﷺ)
+  - color = rgb(29-53, 191-233, 164-182)
+  - subject = something that is easy for me 😇
+  - website = maybe this one 😅
+  - operating system = Arch Linux
+  - desktop environment = kde plasma
+  - gtk or qt theme = qogir
+  - icon = papirus-nordic
 
 <details>
 <summary>
