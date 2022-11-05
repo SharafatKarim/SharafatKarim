@@ -63,7 +63,7 @@
   - person = Muhammad ibn Abdullah (ﷺ)
   - color = rgb(29-53, 191-233, 164-182)
   - subject = something that is easy for me 😇
-  - website = maybe this one 😅
+  - website = maybe [this one](https://sharafat.pages.dev/) 😅
   - operating system = Arch Linux
   - desktop environment = kde plasma
   - gtk or qt theme = qogir
