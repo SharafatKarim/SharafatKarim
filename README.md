@@ -57,7 +57,7 @@
 <img width="30%" alt="Share The Love of Linux" src="headlines.svg"/>
 </a>
 
-<p><img width="20%" align="right" alt="Github Header" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg"/></p>
+<p><img width="28%" align="right" alt="Github Header" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg"/></p>
 
 - 🏖️ Favourite things
   - person = Muhammad ibn Abdullah (ﷺ)
