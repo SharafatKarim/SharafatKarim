@@ -86,7 +86,7 @@
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=sharafatkarim&theme=darkhub" alt="sharafatkarim" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SharafatKarim)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SharafatKarim&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
