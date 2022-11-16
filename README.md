@@ -84,7 +84,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117" alt="sharafatkarim" /></p>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=sharafatkarim&theme=darkhub" alt="sharafatkarim" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=sharafatkarim&theme=darkhub" alt="sharafatkarim" />
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SharafatKarim&theme=github&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
