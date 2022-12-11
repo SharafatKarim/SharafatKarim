@@ -81,7 +81,7 @@
 ![](https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/main/github-metrics.svg)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharafatKarim&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharafatKarim&bg_color=rgba(0,0,0,0)&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SharafatKarim&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharafatKarim&theme=github_dark)
 
