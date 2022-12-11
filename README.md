@@ -13,7 +13,7 @@
 
 </b>
 
-<table align="left">
+<table align="center">
       <tbody>
         <tr>
           <td style="text-align: center;"><a href="https://t.me/SharafatKarim" title="Telegram"
