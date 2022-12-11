@@ -13,12 +13,11 @@
 
 </b>
 
-<!-- Previous backup [Gotta update this part] 
 <table align="center">
       <tbody>
         <tr>
           <td style="text-align: center;"><a href="https://t.me/SharafatKarim" title="Telegram"
-              target="_blank"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"
+              target="_blank"><img src="https://img.icons8.com/fluency/48/null/telegram-app.png"
                 alt="telegram" title="Telegram"></a><br>
           </td>
           <td style="text-align: center;"><a href="https://t.me/LinuxUniverse" title="Linux Community (telegram)"
@@ -46,37 +45,8 @@
           </td>
         </tr>
       </tbody>
-    </table> -->
+    </table>
 
-<!-- Image Grid starts here -->
-
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-
-<div class="imagegrid">
-    <div class="image-container">
-        <i class="fas fa-cloud"></i>
-    </div>
-    <div class="image-container">
-        <i class="fas fa-cloud"></i>
-    </div>
-    <div class="image-container">
-        <i class="fas fa-cloud"></i>
-    </div>
-    <div class="image-container">
-        <i class="fas fa-cloud"></i>
-    </div>
-    <div class="image-container">
-        <i class="fas fa-cloud"></i>
-    </div>
-    <div class="image-container">
-        <i class="fas fa-cloud"></i>
-    </div>
-    <div class="image-container">
-        <i class="fas fa-cloud"></i>
-    </div>
-</div>
-
-<!-- Divider and then community links -->
 ---
 
 <center>
