@@ -77,6 +77,14 @@
 
 ![](https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/main/github-metrics.svg)
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharafatKarim&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SharafatKarim&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharafatKarim&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharafatKarim&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharafatKarim&theme=github_dark)
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=STATS&username=SharafatKarim" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=github_dark&hide_border=false&custom_title=LANGUAGES&username=SharafatKarim" height="150" alt="languages graph"  />
