@@ -48,6 +48,34 @@
       </tbody>
     </table> -->
 
+<!-- Image Grid starts here -->
+
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
+<div class="imagegrid">
+    <div class="image-container">
+        <i class="fas fa-cloud"></i>
+    </div>
+    <div class="image-container">
+        <i class="fas fa-cloud"></i>
+    </div>
+    <div class="image-container">
+        <i class="fas fa-cloud"></i>
+    </div>
+    <div class="image-container">
+        <i class="fas fa-cloud"></i>
+    </div>
+    <div class="image-container">
+        <i class="fas fa-cloud"></i>
+    </div>
+    <div class="image-container">
+        <i class="fas fa-cloud"></i>
+    </div>
+    <div class="image-container">
+        <i class="fas fa-cloud"></i>
+    </div>
+</div>
+
 <!-- Divider and then community links -->
 ---
 
