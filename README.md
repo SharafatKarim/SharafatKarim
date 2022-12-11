@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharafat</h1>
 <h3 align="center">A student from Bangladesh</h3>
 
+<!-- Git Header SVG -->
 <p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
+
 <b>
 
 - 🐧 A Linux enthusiast
@@ -11,6 +13,7 @@
 
 </b>
 
+<!-- Previous backup [Gotta update this part] 
 <table align="center">
       <tbody>
         <tr>
@@ -43,8 +46,9 @@
           </td>
         </tr>
       </tbody>
-    </table>
+    </table> -->
 
+<!-- Divider and then community links -->
 ---
 
 <center>
