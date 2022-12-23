@@ -36,7 +36,7 @@
                 alt="messenger" title="Messenger"></a><br>
           </td>
           <td><a href="https://github.com/SharafatKarim" title="GitHub Profile"
-              target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"
+              target="_blank"><img src="https://img.icons8.com/color/48/null/github--v1.png"
                 alt="github" title="GitHub"></a><br>
           </td>
           <td style="text-align: center;"><a href="https://twitter.com/sharafat2004"
