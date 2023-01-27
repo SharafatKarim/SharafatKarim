@@ -7,9 +7,9 @@
 <b>
 
 - 🐧 A Linux enthusiast
-- ❤️‍🔥 I like open-source projects
+- ❤️ I like open-source projects
 - 🌱 I’m currently learning something useless, maybe
-- 🫠 Feel free to text me
+- 🔥 Feel free to text me
 
 </b>
 
