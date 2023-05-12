@@ -85,7 +85,7 @@
 
 <details>
 <summary>
-  🎯 GitHub STATS
+  🎯 Click here for more STATS
 </summary>
 
 ![](https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/main/github-metrics.svg)
