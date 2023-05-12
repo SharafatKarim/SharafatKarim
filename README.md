@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sharafat</h1>
-<h3 align="center">A student from Bangladesh</h3>
+<!-- <h1 align="center">Hi 👋, I'm Sharafat</h1> -->
+<!-- <h3 align="center">A student from Bangladesh</h3> -->
+
+<samp>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
+</samp>
+
+<samp>
+    <h3 align="center">I am <code><b>Md. Sharafat karim</b></code></h3>
+</samp>
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Arch+Linux+%2B+KDE+plasma;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
 
 <!-- Git Header SVG -->
 <p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
@@ -98,6 +108,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SharafatKarim&theme=github&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</details>
-
 ![GitHub Snake dark](https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/output/github-contribution-grid-snake-dark.svg)
+
+</details>
