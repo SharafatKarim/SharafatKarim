@@ -37,11 +37,11 @@
           <td><a href="mailto:sharafat2004@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/000000/mail.png"
                 alt="email" title="Email"></a><br>
           </td>
-          <td><a href="https://facebook.com/Sharafat2004" title="Facebook" target="_blank"><img
+          <td><a href="https://facebook.com/m.sharafat.karim" title="Facebook" target="_blank"><img
                 src="https://img.icons8.com/fluency/48/000000/facebook-new.png"
                 alt="facebook" title="Facebook"></a><br>
           </td>
-          <td><a href="https://m.me/Sharafat2004" title="Messenger" target="_blank"><img
+          <td><a href="https://m.me/m.sharafat.karim" title="Messenger" target="_blank"><img
                 src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/48/000000/external-messenger-social-media-prettycons-lineal-color-prettycons.png"
                 alt="messenger" title="Messenger"></a><br>
           </td>
