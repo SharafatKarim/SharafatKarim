@@ -30,7 +30,7 @@
               target="_blank"><img src="https://img.icons8.com/fluency/48/null/telegram-app.png"
                 alt="telegram" title="Telegram"></a><br>
           </td>
-          <td style="text-align: center;"><a href="https://t.me/LinuxUniverse" title="Linux Community (telegram)"
+          <td style="text-align: center;"><a href="https://t.me/LinuxBangladesh" title="Linux Community (telegram)"
               target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"
                 alt="Linux Community" title="Linux Community"></a><br>
           </td>
