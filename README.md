@@ -108,6 +108,6 @@
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SharafatKarim&theme=github&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-![GitHub Snake dark](https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake dark](https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/output/github-contribution-grid-snake.svg)
 
 </details>
