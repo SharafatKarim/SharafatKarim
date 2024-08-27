@@ -18,7 +18,7 @@
 
 - 🐧 A Linux enthusiast
 - ❤️ I like open-source projects
-- 🌱 I’m currently learning something useless, maybe
+- 🌱 Interested about resume? [Click here](https://resume.github.io/?SharafatKarim).
 - 🔥 Feel free to text me
 
 </b>
